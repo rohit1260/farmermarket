@@ -1,0 +1,52 @@
+body{
+    background-image:url(images/12.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 250%;
+    width=100% ;
+
+}
+.navbar{
+    font-family: lato;
+    width: 100%;
+    background-color: antiquewhite;
+    overflow: auto;
+    
+}
+.navbar a{
+     font-family: lato;
+     float: left;
+     padding: 12px;
+     text-decoration: none;
+     font-size: 27px;
+     width: 10%;;
+     color: blueviolet;
+     text-align: center;
+}
+
+.navbar a:hover{
+    background-color: brown;
+}
+ h1{
+     color:turquoise;
+     font-size: 50px;
+     padding-top: 5%;
+     text-align: center;
+     font-family: lato;
+ }
+ h2{
+    color: turquoise;
+    font-size: 30px;
+    padding-top: 1%;
+    text-align: center;
+    font-family: lato;
+ }
+ .footer{
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     padding-bottom: 0%;
+     background-color: sienna;
+
+ }
